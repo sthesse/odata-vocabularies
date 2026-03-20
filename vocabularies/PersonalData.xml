@@ -258,7 +258,6 @@ Terms for contact and address information are defined in the [Communication voca
           </String>
         </Annotation>
       </Term>
-
       <Term Name="RelatedDataCategoryID" Type="Collection(Edm.String)" AppliesTo="Property EntitySet">
         <Annotation Term="Core.Description" String="Annotation with the assignment of multiple data categories to one entity" />
         <Annotation Term="Core.LongDescription">
